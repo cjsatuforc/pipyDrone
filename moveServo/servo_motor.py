@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
 import wiringpi
 import time
 import sys
 
-servo_pin  =  18
+servo_pin  =  12
 
 # get degree
 param = sys.argv
